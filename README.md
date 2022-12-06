@@ -20,34 +20,34 @@
   
   ### Topic 2
   
-   - 1
-   - 2
-   - 3
-   - 4 
-   - 5 
-   - 6 
-   - 7 
-   - 8 
-   - 9 
-   - 10
-   - 11
-   - 12
-   - 13
+   - 1 [Concurrency](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/01%20-%20Concurrency)
+   - 2 [Semaphore](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/02%20-%20Semaphore)
+   - 3 [Mutual exclusion](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/03%20-%20Mutual%20Exclusion)
+   - 4 [Reader Writer problem](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/04%20-%20Reader%20writer%20problem)
+   - 5 [Monitor](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/05%20-%20Monitor)
+   - 6 [Producer Consumer Problem](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/06%20-%20Producer%20consumer%20problem)
+   - 7 [Dining Philosopher](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/07%20-%20Dining%20philosopher%20problem)
+   - 8 [Deadlock and its principle](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/08%20-%20Deadlock%20and%20its%20principle)
+   - 9 [Deadlock Prevention](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/09%20-%20Deadlock%20Prevention)
+   - 10 [Deadlock Avoidance](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/10%20-%20Deadlock%20Avoidance)
+   - 11 [Deadlock Detection](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/11%20-%20Deadlock%20Detection)
+   - 12 [Deadlock Recovery](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/12%20-%20Deadlock%20Recovery)
+   - 13 [Important Questions](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/13%20-%20Imp%20questions)
       
       
-  ### Topic 3
+  ### Topic 3 - [Memory Management](https://github.com/prashantjagtap2909/OS/tree/main/Topics/Memory%20management)
   
-   - 1
-   - 2
-   - 3
-   - 4 
-   - 5 
-   - 6 
-   - 7 
-   - 8 
-   - 9 
-   - 10
-   - 11
+   - 1 [Memeory Management Concept](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/01%20-%20Memory%20management%20concept)
+   - 2 [Memory Partitioning](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/02%20-%20Memory%20Partitioning)
+   - 3 [Buddy System](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/03%20-%20Buddy%20System)
+   - 4 [Paging](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/04%20-%20Paging)
+   - 5 [Segmentation](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/05%20-%20Segmentation)
+   - 6 [Placement Strategies]()
+   - 7 [Virtual Memory](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/07%20-%20Virtual%20Memory)
+   - 8 [Swapping](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/06%20-%20Placement%20Strategies)
+   - 9 [Page replacement algorthm](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/09%20-%20Page%20replacement%20algorithm)
+   - 10 [Thrasing](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/10%20-%20Thrashing)
+   - 11 [Important Question](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/11%20-%20Imp%20Questions)
       
       
 This repo is containing almost all topics notes which will be beneficial for University exam , Gate and other competative exam.
