@@ -52,4 +52,4 @@
       
 This repo is containing almost all topics notes which will be beneficial for University exam , Gate and other competative exam.
 
-will start updating from 06/12/22
+will update all the things shortly......!
