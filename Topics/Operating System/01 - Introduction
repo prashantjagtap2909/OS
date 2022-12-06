@@ -1,3 +1,28 @@
 ## Introduction
 
+ Operating System :- An operating system is a program that controls the execution of application programs. It is an interrface between application and hardware.
+ it also can be defined as program that manages the computer hardware.
+ 
+ It also provides a basis for application program and acts as intermediary between the computer user and the computer hardware.
+ 
+ ## Unix Opearating System 
+ - Developed in 1969 and now owned by open group.
+ - It is command line interface (CLI) based operating system
+ - Built in security but there is must need to install the updates manually
+ - Built on an open standard, but single unix specification provides a standard and ensure continuity across different distribution of UNIX
+ - It has a steep learning curve
+ 
+ 
+ ## Window Operating System 
+ - Originally released in 1985
+ - Graphical user interface (GUI) based operating System 
+ - Compatible with thousands of application and utilities
+ - Updates and fixes can be downloaded and installed automatically 
+ - Huge support community
+ - The code is proprietary owned by Microsoft
+ 
+ 
+### Function of Operating System
+ 
+ 
 [next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/02%20-%20Evolution%20of%20OS.md)
