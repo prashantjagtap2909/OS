@@ -14,10 +14,10 @@
 
 🛑 I/O Operation :- An I/O subsystem comprises of I/O devices and their corresponding driver software. Drivers hide the peculiarities of specific hardware devices from the users.
 
-An Operating System manages the communication between user and device drivers.
+ - An Operating System manages the communication between user and device drivers.
 
-I/O operation means read or write operation with any file or any specific I/O device.
-Operating system provides the access to the required I/O device when required.
+ - I/O operation means read or write operation with any file or any specific I/O device.
+ - Operating system provides the access to the required I/O device when required.
 
 
 🛑 File system manipulation :- A file represents a collection of related information. Computers can store files on the disk (secondary storage), for long-term storage purpose. Examples of storage media include magnetic tape, magnetic disk and optical disk drives like CD, DVD. Each of these media has its own properties like speed, capacity, data transfer rate and data access methods.
