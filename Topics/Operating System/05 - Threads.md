@@ -24,8 +24,15 @@
 🛑 Dead 
     - When thread completes task or operation
 
+## Advantages-
+          - *️⃣ Thread minimize the context switching time 
+          - *️⃣ User of threads provide concurrency with a process
+          - *️⃣ Efficient communication
+          - *️⃣ It is more economical to create a context switch thread
+          - *️⃣ Threads allow utilization of multiprocessor architectures to a greater scale and efficiently
 
-
-
+## Types of Threads:-
+          🛑 User level thread
+          🛑 kernal level thread
 
 [next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/06%20-%20Multithreading%20model.md)
