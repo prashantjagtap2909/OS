@@ -15,7 +15,7 @@
     ⬇ 
     Terminated - The process has finished execution
     
-![states](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/images/process-state.webp)    
+![states](process-state.webp)  
 ## Process control block :- 
   - Each process is reprented in the operating system by a process control block(PCB) also called as task block. It contains many piece of information associated with a specific process.
 
@@ -49,6 +49,6 @@
 🔰 Location of the Process Control Block
 - The process control block is kept in a memory area that is protected from the normal user access. This is done because it contains important process information. Some of the operating systems place the PCB at the beginning of the kernel stack for the process as it is a safe location.
 
-![PCB](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/images/PCB%20in%20Operating%20System.png?raw=true)
+![PCB](PCB in Operating System.png)
     
 [next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/05%20-%20Threads.md)
