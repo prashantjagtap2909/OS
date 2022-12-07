@@ -38,11 +38,17 @@ Schedulers are special system software which handle process scheduling in variou
 - Context switches are computationally intensive since register and memory state must be saved and restored. To avoid the amount of context switching time, some hardware systems employ two or more sets of processor registers. When the process is switched, the following information is stored for later use.
 
   ⏹- Program Counter
+  
   ⏹- Scheduling information
+  
   ⏹- Base and limit register value
+  
   ⏹- Currently used register
+  
   ⏹- Changed State
+  
   ⏹- I/O State information
+  
   ⏹- Accounting information
 
 
