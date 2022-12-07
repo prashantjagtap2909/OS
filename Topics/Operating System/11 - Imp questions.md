@@ -1,9 +1,13 @@
 ### Important Questions
 
 🔰 Process state
+
 🔰 Sheduling algorithm (fixed)
+
 🔰 multithreading and model
+
 🔰 hard real time soft real time
+
 🔰 user level vs kernal level thread
 
 
