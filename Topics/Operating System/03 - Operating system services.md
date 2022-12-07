@@ -60,3 +60,6 @@ Operating system provides the access to the required I/O device when required.
 - The OS ensures that all access to system resources is controlled.
 - The OS ensures that external I/O devices are protected from invalid access attempts.
 - The OS provides authentication features for each user by means of passwords.
+
+
+[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/04%20-%20Process%20management)
