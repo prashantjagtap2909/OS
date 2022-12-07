@@ -15,9 +15,10 @@
         
        
        
-## Types of Opearatinn System :- 
+## Types of Opearating System :- 
  
-   🛑 Batch Operating System - The user of this OS not interact with the computer directly each user prepares this job with similar on an offline device called punch card and submit to computer operator
+   🛑 Batch Operating System - The user of this OS not interact with the computer directly each user prepares this job with similar on an offline device called punch card and submit to computer operator.
+   ![batch os](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/images/Batch-Operating-System.png)  
      
      *️⃣ Avantages :- 1. No interaction between user and computer
                      2. No mechanism to provide the process
@@ -25,7 +26,7 @@
      *️⃣ Disadvantages :- 1. Lack of interaction between user and job
                          2. CPU is often idle because the speed of I/O mechanical device is slower than I/O.
                          3. Difficult to provide desired priority
-                         
+                       
                      
   🛑 Time Sharing Operating System - It is a technique which enable many user located at varios terminals to use particular computer system at the same time processor's time is simultaneously shared among multi-user is termed as time sharing.
   
