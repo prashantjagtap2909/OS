@@ -62,4 +62,4 @@ Operating system provides the access to the required I/O device when required.
 - The OS provides authentication features for each user by means of passwords.
 
 
-[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/04%20-%20Process%20management)
+[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/04%20-%20Process%20management.md)
