@@ -6,14 +6,15 @@
 🛑 States of process - The states of process is defined in part the current activity of that process.
 
     New - The process is being created.
-    ⬇ 
+    ⬇
+    Ready - The process is waiting to the assigned to a process
+    ⬇
     Running - Instructions are being executed
     ⬇
     waiting - The process is waiting for some event to occur
-    ⬇
-    Ready - The process is waiting to the assigned to a process
     ⬇ 
     Terminated - The process has finished execution
+
  ![image](https://user-images.githubusercontent.com/93985255/206268030-01e19859-50e4-4a75-99ca-368d3a0061b3.png)
    
 
