@@ -13,17 +13,17 @@
 
 ### Process scheduling queues
 
-he OS maintains all Process Control Blocks (PCBs) in Process Scheduling Queues. The OS maintains a separate queue for each of the process states and PCBs of all processes in the same execution state are placed in the same queue. When the state of a process is changed, its PCB is unlinked from its current queue and moved to its new state queue.
+- The OS maintains all Process Control Blocks (PCBs) in Process Scheduling Queues. The OS maintains a separate queue for each of the process states and PCBs of all processes in the same execution state are placed in the same queue. When the state of a process is changed, its PCB is unlinked from its current queue and moved to its new state queue.
 
 
 
-Job queue 
+🛑 Job queue 
   − This queue keeps all the processes in the system.
 
-Ready queue 
+🛑 Ready queue 
   − This queue keeps a set of all processes residing in main memory, ready and waiting to execute. A new process is always put in this queue.
 
-Device queues
+🛑 Device queues
   − The processes which are blocked due to unavailability of an I/O device constitute this queue.
 
 
