@@ -29,3 +29,7 @@ There exists three established multithreading models classifying these relations
 
  Many to Many Model multithreading model:
 - In this type of model, there are several user-level threads and several kernel-level threads. The number of kernel threads created depends upon a particular application. The developer can create as many threads at both levels but may not be the same. The many to many model is a compromise between the other two models. In this model, if any thread makes a blocking system call, the kernel can schedule another thread for execution. Also, with the introduction of multiple threads, complexity is not present as in the previous models. Though this model allows the creation of multiple kernel threads, true concurrency cannot be achieved by this model. This is because the kernel can schedule only one process at a time.
+
+
+
+[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/07%20-%20Process%20control%20system%20call.md)
