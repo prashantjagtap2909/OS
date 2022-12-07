@@ -51,3 +51,4 @@ Location of the Process Control Block
 
 
     
+[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/05%20-%20Threads.md)
