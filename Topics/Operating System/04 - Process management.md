@@ -14,8 +14,9 @@
     Ready - The process is waiting to the assigned to a process
     ⬇ 
     Terminated - The process has finished execution
-    
-![states](process-state.webp)  
+ ![image](https://user-images.githubusercontent.com/93985255/206268030-01e19859-50e4-4a75-99ca-368d3a0061b3.png)
+   
+
 ## Process control block :- 
   - Each process is reprented in the operating system by a process control block(PCB) also called as task block. It contains many piece of information associated with a specific process.
 
@@ -50,6 +51,6 @@
 - The process control block is kept in a memory area that is protected from the normal user access. This is done because it contains important process information. Some of the operating systems place the PCB at the beginning of the kernel stack for the process as it is a safe location.
 
 
-![PCB](https://github.com/[prashantjagtap2909]/[OS]/blob/[main/Topic/Operating%20System/images]/PCB in Operating System.png?raw=true)
+![image](https://user-images.githubusercontent.com/93985255/206267689-a2d2978b-55ed-459c-afd7-c9b813276a28.png)
     
 [next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/05%20-%20Threads.md)
