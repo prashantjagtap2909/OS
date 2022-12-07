@@ -5,9 +5,13 @@
 There are commonly five types of system calls. These are as follows:
 
 ⭕ Process Control 
+
 ⭕ File Management
+
 ⭕ Device Management
+
 ⭕ Information Maintenance
+
 ⭕ Communication
 
 🛑 Process Control
