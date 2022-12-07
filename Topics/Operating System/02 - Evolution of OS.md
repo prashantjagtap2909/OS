@@ -37,7 +37,7 @@
                          2. Problem of data communication
                          
                    
-   🛑 Distributed operating system - It uses multiple processors to serve multiple real time applications and multiple user. Data processing jobs are distribured among the processor recording
+  🛑 Distributed operating system - It uses multiple processors to serve multiple real time applications and multiple user. Data processing jobs are distribured among the processor recording
    
     *️⃣ Advantages :- 1. Better service to the customer 
                       2. Reduction of load on the host computer
@@ -49,7 +49,7 @@
      *️⃣ Disadvantages :- 1. Security
     
     
-    🛑 Real time operating system - The real time operating system is system in which gaurentees the maximum time for critical operations and compile them on time.
+   🛑 Real time operating system - The real time operating system is system in which gaurentees the maximum time for critical operations and compile them on time.
     
       *️⃣ Advantages :- 1. Ideal for processing a large amount of data
                       2. Information is always up-to-date
@@ -60,7 +60,7 @@
                         3. Difficult for auditing
                         
                        
-    🛑 Network operating system - The network os runs on a server and provide the server capability to manage data, user groups, security, applications and other networking function
+   🛑 Network operating system - The network os runs on a server and provide the server capability to manage data, user groups, security, applications and other networking function
     
       *️⃣ Advantages:- 1. Highly stable contralized server
                       2. Security concern are handled through server
