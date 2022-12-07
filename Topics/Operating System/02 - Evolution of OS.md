@@ -1,23 +1,23 @@
 # Evolution of Operating System
 
 ## Generations of Operating System :- 
-- a First Generation (1945 - 1955)
+- ♦ First Generation (1945 - 1955)
       Vaccum tubes and plug record
       
-- b Second Generation (1955 - 1965)
+- ♦ Second Generation (1955 - 1965)
         Transistors and Batch record 
         
-- c Third Generation (1965 - 1980)
+- ♦ Third Generation (1965 - 1980)
         Integrated circuit and multi programming
         
-- d Forth Generation ( 1980 - current)
+- ♦ Forth Generation ( 1980 - current)
         Personal computer 
         
        
        
 ## Types of Opearating System :- 
       
-![batch os](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/images/Batch-Operating-System.png)  
+  
    🛑 Batch Operating System - The user of this OS not interact with the computer directly each user prepares this job with similar on an offline device called punch card and submit to computer operator.
    
      
