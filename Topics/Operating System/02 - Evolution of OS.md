@@ -16,9 +16,10 @@
        
        
 ## Types of Opearating System :- 
- 
+      
+![batch os](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/images/Batch-Operating-System.png)  
    🛑 Batch Operating System - The user of this OS not interact with the computer directly each user prepares this job with similar on an offline device called punch card and submit to computer operator.
-   ![batch os](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/images/Batch-Operating-System.png)  
+   
      
      *️⃣ Avantages :- 1. No interaction between user and computer
                      2. No mechanism to provide the process
