@@ -35,4 +35,6 @@
           🛑 User level thread
           🛑 kernal level thread
 
+
+
 [next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/06%20-%20Multithreading%20model.md)
