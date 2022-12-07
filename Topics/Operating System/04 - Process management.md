@@ -51,4 +51,4 @@
 
 ![PCB](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/images/PCB%20in%20Operating%20System.png)
     
-[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/05%20-%20Threads.md)
+[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/05%20-%20Threads.md?raw=true)
