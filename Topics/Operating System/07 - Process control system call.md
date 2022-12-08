@@ -1,7 +1,7 @@
 ## System call
 - When a computer software needs to access the operating system's kernel, it makes a system call. The system call uses an API to expose the operating system's services to user programs. It is the only method to access the kernel system. All programs or processes that require resources for execution must use system calls, as they serve as an interface between the operating system and user programs.
 
-![image](https://user-images.githubusercontent.com/93985255/206347179-c55469e2-52c7-4583-a980-7fdf4baf32ec.png)
+![image](https://user-images.githubusercontent.com/93985255/206347282-55d80615-6b51-4dee-9788-a935556d6910.png)
 
 
 
