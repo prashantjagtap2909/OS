@@ -3,10 +3,13 @@
 
 #### Condition required for Deadlock to exist
 
-  ⏺- Mutual Exclusion: Only one process can use a resource at any given time i.e. the resources are non-sharable.
-  ⏺- Hold and wait: A process is holding at least one resource at a time and is waiting to acquire other resources held by some other process.
-  ⏺- No preemption: The resource can be released by a process voluntarily i.e. after execution of the process.
-  ⏺- Circular wait: A circular chain of hold and wait condition exists in the system.
+  ⏺ Mutual Exclusion: Only one process can use a resource at any given time i.e. the resources are non-sharable.
+  
+  ⏺ Hold and wait: A process is holding at least one resource at a time and is waiting to acquire other resources held by some other process.
+  
+  ⏺ No preemption: The resource can be released by a process voluntarily i.e. after execution of the process.
+  
+  ⏺ Circular wait: A circular chain of hold and wait condition exists in the system.
   
   
   #### Difference between Deadlock and Starvation
