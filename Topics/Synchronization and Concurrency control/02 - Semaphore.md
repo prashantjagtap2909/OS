@@ -30,6 +30,9 @@ There are two main types of semaphores i.e. counting semaphores and binary semap
 ♦ Binary Semaphores
   - The binary semaphores are like counting semaphores but their value is restricted to 0 and 1. The wait operation only works when the semaphore is 1 and the signal operation succeeds when semaphore is 0. It is sometimes easier to implement binary semaphores than counting semaphores.
 
+
+
+
 🛑 Advantages of Semaphores
 
 -⏺ Semaphores allow only one process into the critical section. They follow the mutual exclusion principle strictly and are much more efficient than some other methods of synchronization.
@@ -39,6 +42,7 @@ There are two main types of semaphores i.e. counting semaphores and binary semap
 -⏺ Semaphores are implemented in the machine independent code of the microkernel. So they are machine independent.
 
 
+
 🛑 Disadvantages of Semaphores
 
 -⏺ Semaphores are complicated so the wait and signal operations must be implemented in the correct order to prevent deadlocks.
@@ -46,3 +50,6 @@ There are two main types of semaphores i.e. counting semaphores and binary semap
 -⏺ Semaphores are impractical for last scale use as their use leads to loss of modularity. This happens because the wait and signal operations prevent the creation of a structured layout for the system.
 
 -⏺ Semaphores may lead to a priority inversion where low priority processes may access the critical section first and high priority processes later.
+
+
+[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/03%20-%20Mutual%20Exclusion.md)
