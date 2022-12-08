@@ -9,7 +9,7 @@
    - 3 [Operating System Services](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/03%20-%20Operating%20system%20services.md)
    - 4 [Process Management](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/04%20-%20Process%20management.md)
    - 5 [Threads](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/05%20-%20Threads.md)
-   - 6 [Multithreading Model](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/05%20-%20Threads.md)
+   - 6 [Multithreading Model](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/06%20-%20Multithreading%20model.md)
    - 7 [Process control system call](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/07%20-%20Process%20control%20system%20call.md)
    - 8 [Process Scheduling](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/08%20-%20Process%20scheduling.md)
    - 9 [Scheduling](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/09%20-%20Scheduling.md)
