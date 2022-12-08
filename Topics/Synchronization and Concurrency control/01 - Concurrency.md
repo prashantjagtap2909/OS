@@ -25,7 +25,7 @@
 ## Mutual Exclusion
 - Mutual exclusion methods are used in concurrent programming to avoid the simultaneous use of a common resource, such as a global variable, by piece of computer code called critical sections.
 
-### Reuirement of mutual exclusion
+### Requirement of mutual exclusion
 
    - Mutual exclusion should be ensured in the middle of different processes when accessing shared resources. There must not be two processes within their critical sections at any time.
    
