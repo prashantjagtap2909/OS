@@ -50,6 +50,8 @@ Schedulers are special system software which handle process scheduling in variou
   ⏹- I/O State information
   
   ⏹- Accounting information
+![image](https://user-images.githubusercontent.com/93985255/206347650-6baf3ac3-d8f9-4406-8dbe-84c6d9748188.png)
+
 
 
 [next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/10%20-%20Scheduling%20algorithm.md)
