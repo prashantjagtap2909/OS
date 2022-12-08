@@ -1,6 +1,6 @@
-# OS
+# Operating System
 
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ## Contents 
    ### Topic 1 [Operating System](https://github.com/prashantjagtap2909/OS/tree/main/Topics/Operating%20System)
    
@@ -51,5 +51,7 @@
       
       
 This repo is containing almost all topics notes which will be beneficial for University exam , Gate and other competative exam.
+Hope you find it helpful.
+Give a star to repo if you like and follow the owner of repository 😅.
 
 will update all the things shortly......!
