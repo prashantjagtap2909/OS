@@ -3,6 +3,9 @@
           
 ### Thread lifecycle
 
+![image](https://user-images.githubusercontent.com/93985255/206346117-0d093f90-ab5e-45a2-8d75-196df260b6b7.png)
+
+
 🛑 New 
     - Thread is just created.
     
