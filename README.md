@@ -20,19 +20,19 @@
   
   ### Topic 2 [Synchronization and Concurrency Control](https://github.com/prashantjagtap2909/OS/tree/main/Topics/Synchronization%20and%20Concurrency%20control)
   
-   - 1 [Concurrency](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/01%20-%20Concurrency)
-   - 2 [Semaphore](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/02%20-%20Semaphore)
-   - 3 [Mutual exclusion](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/03%20-%20Mutual%20Exclusion)
-   - 4 [Reader Writer problem](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/04%20-%20Reader%20writer%20problem)
-   - 5 [Monitor](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/05%20-%20Monitor)
-   - 6 [Producer Consumer Problem](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/06%20-%20Producer%20consumer%20problem)
-   - 7 [Dining Philosopher](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/07%20-%20Dining%20philosopher%20problem)
-   - 8 [Deadlock and its principle](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/08%20-%20Deadlock%20and%20its%20principle)
-   - 9 [Deadlock Prevention](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/09%20-%20Deadlock%20Prevention)
-   - 10 [Deadlock Avoidance](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/10%20-%20Deadlock%20Avoidance)
-   - 11 [Deadlock Detection](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/11%20-%20Deadlock%20Detection)
-   - 12 [Deadlock Recovery](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/12%20-%20Deadlock%20Recovery)
-   - 13 [Important Questions](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/13%20-%20Imp%20questions)
+   - 1 [Concurrency](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/01%20-%20Concurrency.md)
+   - 2 [Semaphore](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/02%20-%20Semaphore.md)
+   - 3 [Mutual exclusion](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/03%20-%20Mutual%20Exclusion.md)
+   - 4 [Reader Writer problem](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/04%20-%20Reader%20writer%20problem.md)
+   - 5 [Monitor](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/05%20-%20Monitor.md)
+   - 6 [Producer Consumer Problem](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/06%20-%20Producer%20consumer%20problem.md)
+   - 7 [Dining Philosopher](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/07%20-%20Dining%20philosopher%20problem.md)
+   - 8 [Deadlock and its principle](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/08%20-%20Deadlock%20and%20its%20principle.md)
+   - 9 [Deadlock Prevention](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/09%20-%20Deadlock%20Prevention.md)
+   - 10 [Deadlock Avoidance](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/10%20-%20Deadlock%20Avoidance.md)
+   - 11 [Deadlock Detection](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/11%20-%20Deadlock%20Detection.md)
+   - 12 [Deadlock Recovery](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/12%20-%20Deadlock%20Recovery.md)
+   - 13 [Important Questions](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/13%20-%20Imp%20questions.md)
       
       
   ### Topic 3 - [Memory Management](https://github.com/prashantjagtap2909/OS/tree/main/Topics/Memory%20management)
@@ -50,10 +50,10 @@
    - 11 [Important Question](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/11%20-%20Imp%20Questions)
       
       
-This repo is containing almost all topics notes which will be beneficial for University exam , Gate and other competative exam.
+ 💎 This repo is containing almost all topics notes which will be beneficial for University exam , Gate and other competative exam.
 
-Hope you find it helpful.
+💎 Hope you find it helpful.
 
-Give a star to repo if you like and follow the owner of repository 😅.
+💎 Give a star to repo if you like and follow the owner of repository 😅.
 
-will update all the things shortly......!
+💎 will update all the things shortly......!
