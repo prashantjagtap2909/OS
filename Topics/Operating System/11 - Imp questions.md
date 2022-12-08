@@ -2,7 +2,7 @@
 
 🔰 Process state
 
-🔰 Sheduling algorithm (fixed)
+🔰 Sheduling algorithm 
 
 🔰 multithreading and model
 
