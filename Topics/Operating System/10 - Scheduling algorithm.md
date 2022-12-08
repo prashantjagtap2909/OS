@@ -2,7 +2,7 @@
 
 - A Process Scheduler schedules different processes to be assigned to the CPU based on particular scheduling algorithms
 
-#### First Come First Serve (FCFS)
+### 🛑 First Come First Serve (FCFS)
  - Jobs are executed on first come, first serve basis.
  - It is a non-preemptive, pre-emptive scheduling algorithm.
  - Easy to understand and implement.
@@ -15,7 +15,7 @@
 
 
 
-#### Shortest Job First (SJF)
+### 🛑 Shortest Job First (SJF)
  - This is a non-preemptive, pre-emptive scheduling algorithm.
  - Best approach to minimize waiting time.
  - Easy to implement in Batch systems where required CPU time is known in advance.
@@ -28,7 +28,7 @@
 
 
 
-#### Round Robin Scheduling
+### 🛑 Round Robin Scheduling
  - Round Robin is the preemptive process scheduling algorithm.
  - Each process is provided a fix time to execute, it is called a quantum.
  - Once a process is executed for a given time period, it is preempted and other process executes for a given time period.
@@ -38,7 +38,7 @@
 
 
 
-#### Priority Based Scheduling
+### 🛑 Priority Based Scheduling
  - Priority scheduling is a non-preemptive algorithm and one of the most common scheduling algorithms in batch systems.
  - Each process is assigned a priority. Process with highest priority is to be executed first and so on.
  - Processes with same priority are executed on first come first served basis.
