@@ -7,6 +7,7 @@
 ![image](https://user-images.githubusercontent.com/93985255/206481773-1eb448ee-3130-4f65-b11e-33edc9e1808e.png)
 
 
+
 ### 🛑 Characteristics of Monitors 
 
 
@@ -21,7 +22,9 @@
 🔰 Monitors provide a high level of synchronization between processes.
 
 
-### Advantages of monitors
+
+
+### 🛑  Advantages of monitors
 
 🔰 Monitors offer the benefit of making concurrent or parallel programming easier and less error-prone than semaphore-based solutions.
 
@@ -34,7 +37,9 @@
 🔰 Monitors may be able to correct for the timing faults that semaphores cause.
 
 
-### Disadvantages of Monitors
+
+
+### 🛑  Disadvantages of Monitors
 
 🔰 Monitors must be implemented with the programming language.
 
