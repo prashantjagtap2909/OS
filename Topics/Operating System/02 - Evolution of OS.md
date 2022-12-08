@@ -84,4 +84,9 @@
                           2. Maintainance and update requires regularly
 
 
+## Difference between Hard real time and soft real time
+![image](https://user-images.githubusercontent.com/93985255/206350040-46c4b062-45dd-450a-b497-567be294b1a1.png)
+
+
+
 [next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/03%20-%20Operating%20system%20services.md)
