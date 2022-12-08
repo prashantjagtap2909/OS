@@ -38,6 +38,10 @@
           🛑 User level thread
           🛑 kernal level thread
 
+## Difference between User level and Kernal level thread
+
+![image](https://user-images.githubusercontent.com/93985255/206346336-41159236-1eb9-4c7c-818b-b05ff1f4246b.png)
+
 
 
 [next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/06%20-%20Multithreading%20model.md)
