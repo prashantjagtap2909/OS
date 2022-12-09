@@ -14,4 +14,4 @@
 ![image](https://user-images.githubusercontent.com/93985255/206478083-965d5866-9a46-45aa-9884-059b2e89f235.png)
 
 
-[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/04%20-%20Reader%20writer%20problem)
+[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/04%20-%20Reader%20writer%20problem.md)
