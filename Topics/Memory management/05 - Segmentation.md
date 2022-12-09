@@ -28,4 +28,4 @@
 
 ![image](https://user-images.githubusercontent.com/93985255/206744519-477f2282-4927-40bf-a095-346948ec0da1.png)
 
-[next point]()
+[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/06%20-%20Placement%20Strategies.md)
