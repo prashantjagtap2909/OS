@@ -2,7 +2,7 @@
 
 🔰 Critical section/Race condition
 
-🔰solution for producer consumer/dining philosopher problem/
+🔰solution for producer consumer/dining philosopher problem/reader-writer problem
 
 🔰 Semaphore
 
