@@ -14,4 +14,4 @@
 - The process scheduling scheme which swaps in more processes when CPU utilization is low.
 
 
-[main menu](https://github.com/prashantjagtap2909/OS)
+[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/11%20-%20Imp%20Questions.md)
