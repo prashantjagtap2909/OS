@@ -5,6 +5,7 @@
 - The purpose of the swapping in operating system is to access the data present in the hard disk and bring it to RAM so that the application programs can use it. The thing to remember is that swapping is used only when data is not present in RAM.
 
 - Although the process of swapping affects the performance of the system, it helps to run larger and more than one process. This is the reason why swapping is also referred to as memory compaction.
+ 
 ![image](https://user-images.githubusercontent.com/93985255/206752412-0306a647-5245-451e-82d4-1d59c2d8f417.png)
 
 
