@@ -54,6 +54,6 @@
 
 💎 Hope you find it helpful.
 
-💎 Give a star to repo if you like and follow the owner of repository 😅.
+💎 Give a star to repo if you like and [follow](https://github.com/prashantjagtap2909) the owner of repository 😅.
 
-💎 will update all the things shortly......!
+💎 Everything is updated...!
