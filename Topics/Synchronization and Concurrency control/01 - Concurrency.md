@@ -40,5 +40,5 @@
 - Synchronization is the way by which processes that share the same memory space are managed in an operating system. It helps maintain the consistency of data by using variables or hardware so that only one process can make changes to the shared memory at a time.
 
 
-[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/02%20-%20Memory%20Partitioning.md)
+[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/02%20-%20Semaphore.md)
 
