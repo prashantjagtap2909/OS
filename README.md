@@ -37,17 +37,17 @@
       
   ### Topic 3 - [Memory Management](https://github.com/prashantjagtap2909/OS/tree/main/Topics/Memory%20management)
   
-   - 1 [Memeory Management Concept](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/01%20-%20Memory%20management%20concept)
-   - 2 [Memory Partitioning](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/02%20-%20Memory%20Partitioning)
-   - 3 [Buddy System](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/03%20-%20Buddy%20System)
-   - 4 [Paging](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/04%20-%20Paging)
-   - 5 [Segmentation](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/05%20-%20Segmentation)
+   - 1 [Memeory Management Concept](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/01%20-%20Memory%20management%20concept.md)
+   - 2 [Memory Partitioning](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/02%20-%20Memory%20Partitioning.md)
+   - 3 [Buddy System](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/03%20-%20Buddy%20System.md)
+   - 4 [Paging](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/04%20-%20Paging.md)
+   - 5 [Segmentation](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/05%20-%20Segmentation.md)
    - 6 [Placement Strategies](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/06%20-%20Placement%20Strategies.md)
-   - 7 [Virtual Memory](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/07%20-%20Virtual%20Memory)
-   - 8 [Swapping](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/06%20-%20Placement%20Strategies)
-   - 9 [Page replacement algorthm](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/09%20-%20Page%20replacement%20algorithm)
-   - 10 [Thrasing](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/10%20-%20Thrashing)
-   - 11 [Important Question](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/11%20-%20Imp%20Questions)
+   - 7 [Virtual Memory](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/07%20-%20Virtual%20Memory.md)
+   - 8 [Swapping](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/06%20-%20Placement%20Strategies.md)
+   - 9 [Page replacement algorthm](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/09%20-%20Page%20replacement%20algorithm.md)
+   - 10 [Thrasing](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/10%20-%20Thrashing.md)
+   - 11 [Important Question](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/11%20-%20Imp%20Questions.md)
       
       
  💎 This repo is containing almost all topics notes which will be beneficial for University exam , Gate and other competative exam.
