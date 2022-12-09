@@ -43,6 +43,11 @@
 ⏺ Slower Read Times
 
 - The time it takes to read a non-sequential file might increase as a storage device becomes more fragmented.
-  
+
+
+
+## Difference between contiguous and non- contiguous memory allocation
+  ![image](https://user-images.githubusercontent.com/93985255/206719945-436f0dfd-6e41-4ecd-83b6-077cb1c149f9.png)
+
 
 [next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/03%20-%20Buddy%20System.md)
