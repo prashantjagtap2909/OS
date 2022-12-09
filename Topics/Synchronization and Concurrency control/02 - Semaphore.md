@@ -30,7 +30,11 @@ There are two main types of semaphores i.e. counting semaphores and binary semap
 ♦ Binary Semaphores
   - The binary semaphores are like counting semaphores but their value is restricted to 0 and 1. The wait operation only works when the semaphore is 1 and the signal operation succeeds when semaphore is 0. It is sometimes easier to implement binary semaphores than counting semaphores.
 
-
+🛑 Charecteristics of Semaphore
+- It is mechanism that can be used to provide synchronization of task
+- It is low level synchronization mechanism
+- Semaphore will always hold a non-negative integer value
+- Semaphore can be implemented using test operations and interrupts which should be executed using file descriptor
 
 
 🛑 Advantages of Semaphores
