@@ -42,7 +42,7 @@
    - 3 [Buddy System](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/03%20-%20Buddy%20System)
    - 4 [Paging](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/04%20-%20Paging)
    - 5 [Segmentation](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/05%20-%20Segmentation)
-   - 6 [Placement Strategies]()
+   - 6 [Placement Strategies](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/06%20-%20Placement%20Strategies.md)
    - 7 [Virtual Memory](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/07%20-%20Virtual%20Memory)
    - 8 [Swapping](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/06%20-%20Placement%20Strategies)
    - 9 [Page replacement algorthm](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/09%20-%20Page%20replacement%20algorithm)
