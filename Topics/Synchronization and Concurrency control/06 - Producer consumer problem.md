@@ -8,4 +8,4 @@
 ![image](https://user-images.githubusercontent.com/93985255/206482648-ef04fc28-18a1-4662-a0d0-2a4ad1dae77a.png)
 
 
-[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/07%20-%20Dining%20philosopher%20problem)
+[next point](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/07%20-%20Dining%20philosopher%20problem.md)
