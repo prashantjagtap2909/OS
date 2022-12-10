@@ -11,4 +11,4 @@
 🔰 user level vs kernal level thread
 
 
-[next topic](https://github.com/prashantjagtap2909/OS/tree/main/Topics/Operating%20System)
+[next topic](https://github.com/prashantjagtap2909/OS/tree/main/Topics/Synchronization%20and%20Concurrency%20control))
