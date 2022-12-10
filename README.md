@@ -50,10 +50,10 @@
    - 11 [Important Question](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/11%20-%20Imp%20Questions.md)
       
       
- 💎 This repo is containing almost all topics notes which will be beneficial for University exam , Gate and other competitive exam.
+ 💎 This repo is containing almost all topics which will be beneficial for University exam , Gate and other competitive exam.
 
 💎 Hope you find it helpful.
 
-💎 Give a star to repo if you like and [follow](https://github.com/prashantjagtap2909) the owner of repository 😅.
+💎 Star to repo if you like and [follow](https://github.com/prashantjagtap2909) the owner of repository 😅.
 
 💎 Everything is updated...!
