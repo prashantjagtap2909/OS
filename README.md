@@ -3,7 +3,7 @@
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ## Contents 
-   ### Topic 1 [Operating System](https://github.com/prashantjagtap2909/OS/tree/main/Topics/Operating%20System)
+   ### Topic 1 - [Operating System](https://github.com/prashantjagtap2909/OS/tree/main/Topics/Operating%20System)
    
    - 1 [Introduction](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/01%20-%20Introduction.md)
    - 2 [Evolution of OS](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Operating%20System/02%20-%20Evolution%20of%20OS.md)
@@ -19,7 +19,7 @@
 
 
   
-  ### Topic 2 [Synchronization and Concurrency Control](https://github.com/prashantjagtap2909/OS/tree/main/Topics/Synchronization%20and%20Concurrency%20control)
+  ### Topic 2 - [Synchronization and Concurrency Control](https://github.com/prashantjagtap2909/OS/tree/main/Topics/Synchronization%20and%20Concurrency%20control)
   
    - 1 [Concurrency](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/01%20-%20Concurrency.md)
    - 2 [Semaphore](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Synchronization%20and%20Concurrency%20control/02%20-%20Semaphore.md)
