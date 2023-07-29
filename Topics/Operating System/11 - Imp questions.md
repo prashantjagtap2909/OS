@@ -6,7 +6,7 @@
 
 🔰 multithreading and model
 
-🔰 hard real time soft real time
+🔰 hard real time and soft real time
 
 🔰 user level vs kernal level thread
 
