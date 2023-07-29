@@ -6,7 +6,7 @@
 
 🔰 Virtual memory
 
-🔰 Segmentation/ segmentation vs Paging
+🔰 Segmentation and segmentation vs Paging
 
 🔰 Memory allocation algorithm
 
