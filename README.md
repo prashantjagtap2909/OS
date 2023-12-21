@@ -1,7 +1,7 @@
 # Operating System   [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprashantjagtap2909%2FOS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ## Contents 
    ### Topic 1 - [Operating System](https://github.com/prashantjagtap2909/OS/tree/main/Topics/Operating%20System)
    
@@ -51,10 +51,10 @@
    - 11 [Important Question](https://github.com/prashantjagtap2909/OS/blob/main/Topics/Memory%20management/11%20-%20Imp%20Questions.md)
       
       
-💎 This repo is containing almost all topics which will be beneficial for University exam , Gate and other competitive exam.
+💎 This repo contains almost all topics that will be beneficial for the University exam, Gate, and other competitive exams.
 
 💎 Hope you find it helpful.
 
-💎 Star to repo if you like and [follow](https://github.com/prashantjagtap2909) ..
+💎 Star to repo if you like and [follow](https://github.com/prashantjagtap2909)
 
 💎 Everything is updated...!
